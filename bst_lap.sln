@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bst_lap", "bst_lap.vcxproj", "{C9C9D41A-60B2-4F2F-9A78-475B1183C09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9C9D41A-60B2-4F2F-9A78-475B1183C09E}.Debug|x64.ActiveCfg = Debug|x64
+		{C9C9D41A-60B2-4F2F-9A78-475B1183C09E}.Debug|x64.Build.0 = Debug|x64
+		{C9C9D41A-60B2-4F2F-9A78-475B1183C09E}.Debug|x86.ActiveCfg = Debug|Win32
+		{C9C9D41A-60B2-4F2F-9A78-475B1183C09E}.Debug|x86.Build.0 = Debug|Win32
+		{C9C9D41A-60B2-4F2F-9A78-475B1183C09E}.Release|x64.ActiveCfg = Release|x64
+		{C9C9D41A-60B2-4F2F-9A78-475B1183C09E}.Release|x64.Build.0 = Release|x64
+		{C9C9D41A-60B2-4F2F-9A78-475B1183C09E}.Release|x86.ActiveCfg = Release|Win32
+		{C9C9D41A-60B2-4F2F-9A78-475B1183C09E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3C54B2E-2CD1-495F-8C29-7AABF4A28205}
+	EndGlobalSection
+EndGlobal
